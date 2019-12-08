@@ -1,0 +1,10 @@
+## VSCode ##
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Redis ##
+# Ignore redis binary dump (dump.rdb) files
+*.rdb
